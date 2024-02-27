@@ -1,15 +1,7 @@
-<h1 align="center">Scribble.rs</h1>
+<h1 align="center">Peekaboo-Pictiona</h1>
 
-<p align="center">
-  <a href="https://github.com/scribble-rs/scribble.rs/actions/workflows/test-and-build.yml">
-    <img src="https://github.com/scribble-rs/scribble.rs/workflows/Build/badge.svg">
-  </a>
-  <a href="https://codecov.io/gh/scribble-rs/scribble.rs">
-    <img src="https://codecov.io/gh/scribble-rs/scribble.rs/branch/master/graph/badge.svg">
-  </a>
-</p>
 
-Scribble.rs is an alternative to the web-based drawing game skribbl.io. My main
+Peekaboo-Pictiona is an alternative to the web-based drawing game skribbl.io. My main
 problems with skribbl.io were the ads and the fact that a disconnect would
 cause you to lose your points. On top of that, the automatic word choice was
 quite annoying and caused some frustration.
@@ -18,7 +10,7 @@ The site will not display any ads or share any data with third parties.
 
 ## Play now
 
-Feel free to play on [scribblers.fly.dev](https://scribblers.fly.dev). Note
+Feel free to play on [peekaboo-pictiona.onrender](https://peekaboo-pictiona.onrender.com). Note
 that the instance may not respond instantly, as it automatically shuts down
 if no traffic is received.
 
